@@ -1,0 +1,48 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate.yaml
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub-related
+**/doc/api/
+**/ios/Flutter/.flutter-plugins-dependencies
+**/ios/Flutter/ephemeral/
+**/ios/Flutter/generated/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+
+# Android Studio related
+android/.gradle/
+android/local.properties
+android/project.properties
+
+# Web related
+.web_plugins/
+
+# Encryption keys and sensitive environment variables
+*.jks
+*.keystore
+*.p12
+*.pem
+.env*
